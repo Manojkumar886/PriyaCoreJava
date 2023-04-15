@@ -14,7 +14,7 @@ public class AlltypeOfVariables
 //      {
 //          //set of codes
 //      }
-//  Objeact Creation Syntex=  Classname objname=new Classname();
+//  Objeact Creation Syntex:  Classname objname=new Classname();
 
     public void LocalPerformance()
     {
@@ -67,7 +67,7 @@ public class AlltypeOfVariables
         System.out.println("Welcome to Variable Types ........!");
     }
 
-    public static void staticMethod()
+    public static void staticMethod()// static method
     {
         char myvalue='a';//Local Variable
         int ALetterAsciValue=myvalue;
